@@ -40,10 +40,6 @@ Structure
 - ``background.js``: Injects configuration toggle state
 - ``popup.html`` / ``popup.js``: Toggle UI
 
-Optional:
-- You can add an ``icon.png`` (16x16, 48x48, or 128x128) if you want a custom 
-  extension icon.
-- If not, Chrome will use a default puzzle piece icon.
 
 Customization
 -------------
